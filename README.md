@@ -11,7 +11,7 @@
 
 <!--- ripley snake -->
 <div align="center">
-  <img  src="https://github.com/DevRipley/grid-snake/grid-snake.svg"
+  <img  src="https://github.com/DevRipley/grid-snake/grid-snake.svg](https://github.com/DevRipley/grid-snake/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
