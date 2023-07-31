@@ -27,9 +27,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **HTML, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to make a machine learning IA website multifunction.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in Machine Learning site. So, I'm learning **Tensorflow**
 
 - 📝 I regularly write articles on [Hashnode](https://ignripley.hashnode.dev/)
 
