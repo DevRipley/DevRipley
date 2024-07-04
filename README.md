@@ -35,7 +35,7 @@
 
 - 💬 Ask me about **HTML, Python, React, JavaScript, Nodejs, MongoDB**
 
-- 📫 Feel free to reach me out **luisdestrella@gmail.com**
+- 📫 Feel free to reach me out **devripley@estrella.services**
 
 - 🏠 Also We've a tech community called [Resilence Corp](https://discord.com).
 <!--Intro end-->
