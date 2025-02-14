@@ -64,6 +64,33 @@
   </tr>
 </table>
 
+### Social Connections
 
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
+<p>
+  <a href="https://twitter.com/devripley"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/devripley/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://devripley.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+</p>
+
+### GitHub Activity & Stats
+<p>
+  <a href="https://github.com/devripley"><img src="https://img.shields.io/github/followers/devripley?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow"></a>
+</p>
+
+
+### Projects Showcase
+
+<h4>🚀 Featured Projects</h4>
+<p>
+  <a href="https://github.com/devripley/project1"><img src="https://img.shields.io/badge/Project1-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"></a>
+  <a href="https://github.com/devripley/project2"><img src="https://img.shields.io/badge/Project2-FF6C37?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"></a>
+</p>
+
+
+### Website Visits Counter
+
+<p>
+  <img src="https://img.shields.io/badge/Website%20Visits-1234-FF6C37?style=for-the-badge" alt="Website Visits">
+</p>
+
+
